@@ -1,0 +1,20 @@
+italic:
+*this*
+
+bold:
+**is**
+
+bullet(circle):---hypeh with space
+- nikki
+
+squarebullet(subbullet):----tap with asterisk and space
+    * ikki
+    
+Numbered list:----number with space
+1 nikki
+
+Mthematical symbol:---use dollar symbol($)
+$/$ 500 $+$ 5
+
+color:
+<font color=blue>njskdkak</font>
